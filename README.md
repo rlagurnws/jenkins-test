@@ -1,2 +1,2 @@
 # jenkins-test
-일단짐
+230908 test 1
