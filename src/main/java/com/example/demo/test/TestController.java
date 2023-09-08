@@ -16,6 +16,6 @@ public class TestController {
 
   @GetMapping("/all")
   public ResponseEntity<?> findAll(){
-    return ResponseEntity.status(HttpStatus.OK).body("제발");
+    return ResponseEntity.status(HttpStatus.OK).body("제발 바뀌거라");
   }
 }
